@@ -4,7 +4,7 @@
 
 <ul>
     <li>I'm a fullstack developer with experience in JavaScript and Java</li> 
-    <li>I'm studying CS in the<a href="https://www.unifacvest.edu.br/">UNIFACVESTEAD</a></li> 
+    <li>I'm studying CS in the <a href="https://www.unifacvest.edu.br/">UNIFACVESTEAD</a></li> 
     <li>I'm also curious about how the things works under the hood</li>
     <li>At the moment i'm improving my skills to the actual market</li> 
 </ul>
